@@ -1,7 +1,7 @@
 # JavaScript_Projects
 Vanilla JavaScript Practice Projects
 
-* [Color Flipper](https://nuovodw.github.io/JavaScript%20Projects/Color%20Flipper/) 
+* [Color Flipper](https://nuovodw.github.io/JavaScript_Projects/Color_Flipper/) 
 
 
 
