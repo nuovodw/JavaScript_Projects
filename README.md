@@ -3,6 +3,19 @@ Collection of Vanilla JavaScript Practice Projects
 
 * [Color Flipper](https://nuovodw.github.io/JavaScript_Projects/Color_Flipper)
 * [Counter](https://nuovodw.github.io/JavaScript_Projects/Counter)  
+* [Modal](https://nuovodw.github.io/JavaScript_Projects/Modal)
+* [Navbar_Toggler](https://nuovodw.github.io/JavaScript_Projects/Navbar_Toggler) 
+* [FAQ Toggle Buttons](https://nuovodw.github.io/JavaScript_Projects/Questions_toggle_btns) 
+* [Customer Review Cards (slide show)](https://nuovodw.github.io/JavaScript_Projects/Review_Cards)
+* [Side Navbar](https://nuovodw.github.io/JavaScript_Projects/Sidebar) 
+* [Fullscreen Video with Play/Pause Buttons](https://nuovodw.github.io/JavaScript_Projects/Video_Project) 
+* [Lorem Ipsum Generator](https://nuovodw.github.io/JavaScript_Projects/lorem_generator) tabs
+* [Tabs](https://nuovodw.github.io/JavaScript_Projects/tabs) 
+
+
+
+
+
 
 
 
